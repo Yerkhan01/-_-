@@ -1,1 +1,1 @@
-# Сalculator
+# Figures
